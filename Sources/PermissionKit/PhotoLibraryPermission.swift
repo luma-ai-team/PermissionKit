@@ -1,9 +1,4 @@
-//
-//  PhotoLibraryPermission.swift
-//
-//
-//  Created by Roi Mulia on 18/11/2022.
-//
+
 
 import Photos
 import UIKit
